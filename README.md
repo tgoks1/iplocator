@@ -11,7 +11,7 @@
 
 > git clone https://github.com/tgoks1/iplocator 
 
-> pip install -r requirements.txt+
+> pip install -r requirements.txt
 
 > cd iplocator
 
