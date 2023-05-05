@@ -18,4 +18,4 @@
 >python Run.py
 
 #screenshots
-<https://linksharing.samsungcloud.com/ywFabYhQmO3Q>
+<-p Screenshot_20230505-000320_Anonesian.jpg>
