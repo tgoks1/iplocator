@@ -17,6 +17,7 @@
 
 >python Run.py
 
-### screenshot
+### SCREENSHOT
 
-![Screenshot_20230505-000320_Anonesian](https://user-images.githubusercontent.com/124646276/236379346-e05e4169-1d83-4639-b4e1-76e67519d21b.jpg)
+![Screenshot_20230505-000320_Anonesian](https://user-images.githubusercontent.com/124646276/236379871-10784986-d53b-4962-9fc2-de36d4769dd2.jpg)
+
