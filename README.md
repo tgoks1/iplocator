@@ -21,4 +21,4 @@
 
 
 #screenshot
-<-p https://m.facebook.com/story.php?story_fbid=pfbid02vWnbwsGhZptw9mg7qRvP9dSQBNqzpyqcFcWWE3a9YECvR1yH2K9in4xuRKuPxUgTl&id=100010475776180&mibextid=Nif5oz>
+<-p https://m.facebook.com/story.php?story_fbid=pfbid02vWnbwsGhZptw9mg7qRvP9dSQBNqzpyqcFcWWE3a9YECvR1yH2K9in4xuRKuPxUgTl&id=100010475776180&mibextid=Nif5oz
