@@ -17,7 +17,3 @@
 
 >python Run.py
 
-#screenshots
-
-
-<Screenshot_20230505-000320_Anonesian.jpg>
